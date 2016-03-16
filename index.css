@@ -1,0 +1,40 @@
+body {
+  background-color: #005EB8;
+  margin: 0%;
+}
+.bandeau{
+width: 100%;
+display: inline;
+}
+
+.divlogo{
+  width: 70%;
+  float:left;
+}
+
+.logo {
+  width: 75%;
+  margin: 5% 7.5% 7.5% 10%;
+}
+
+.divoption{
+  width: 30%;
+  text-align: center;
+  margin-top: 9%;
+  float: right;
+
+}
+
+.option{
+  width: 60%;
+}
+
+
+
+.BigClip{
+  width: 60%;
+  text-align: center;
+}
+.BigClip img{
+  width: 60%;
+}
